@@ -1,7 +1,7 @@
 Monokai color scheme for Max
 =================
 
-A port of Monokai color theme on [Max/MSP](http://cycling74.com/products/max/).
+A port of Monokai color theme for [Max/MSP](http://cycling74.com/products/max/).
 
 ## Motivation
 
@@ -17,4 +17,4 @@ Just clone the repository to the `Max 6.1/packages` dir.
 
 ## Usage
 
-Click `Load Settings` button in `Menu > Options > Object Defaults...` and choose color scheme.
+Click `Load Settings` button in `Menu > Options > Object Defaults...` and choose `MaxMonokai` color scheme.
