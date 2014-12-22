@@ -9,8 +9,6 @@ I often work at night or in dark rooms, where eyes quickly become tired if worki
 
 To not reinvent the wheel, I decided to port a Monokai color scheme on Max. I themed everything in the `Object Defaults` window, including Max4Live and [Jamoma](http://jamoma.org/) objects. Watch at the screenshot to see how awesome Max/MSP looks with Monokai color theme:
 
-![MaxMonokai screenshot](https://cloud.githubusercontent.com/assets/1007225/3903205/5266df2c-22c9-11e4-9528-823c60023d00.png)
-
 ## Installtaion
 
 Just clone the repository to the `Max 6.1/packages` dir.
@@ -18,3 +16,7 @@ Just clone the repository to the `Max 6.1/packages` dir.
 ## Usage
 
 Click `Load Settings` button in `Menu > Options > Object Defaults...` and choose `MaxMonokai` color scheme.
+
+![MaxMonokai screenshot](https://cloud.githubusercontent.com/assets/1007225/3903205/5266df2c-22c9-11e4-9528-823c60023d00.png)
+
+![Project example](https://cloud.githubusercontent.com/assets/1007225/5525554/e491549a-89f8-11e4-9249-9f2448517df4.png)
